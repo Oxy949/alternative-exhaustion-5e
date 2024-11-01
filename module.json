@@ -28,7 +28,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "3.0.0",
-          "maximum": "3.3.1"
+          "maximum": "4.9.9"
         }
       }
     ]
@@ -43,9 +43,9 @@
       ]
     }
   },
-  "url": "https://github.com/krbz999/alternative-exhaustion-5e",
-  "license": "https://raw.githubusercontent.com/krbz999/alternative-exhaustion-5e/main/LICENSE",
-  "manifest": "https://github.com/krbz999/alternative-exhaustion-5e/releases/latest/download/module.json",
+  "url": "https://github.com/Oxy949/alternative-exhaustion-5e",
+  "license": "https://raw.githubusercontent.com/Oxy949/alternative-exhaustion-5e/main/LICENSE",
+  "manifest": "https://github.com/Oxy949/alternative-exhaustion-5e/releases/latest/download/module.json",
   "download": "AUTOMATIC",
   "description": "A small module for enabling alternative exhaustion rules in the dnd5e system.",
   "packs": [
