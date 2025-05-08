@@ -13,7 +13,7 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
   "esmodules": [
     "module/setup.mjs"
@@ -28,7 +28,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "3.0.0",
-          "maximum": "4.9.9"
+          "maximum": "5.9.9"
         }
       }
     ]
